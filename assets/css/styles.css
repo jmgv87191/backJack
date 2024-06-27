@@ -1,5 +1,14 @@
+html, body{
+    margin: 0px;
+    background-color: #2F4F30;
+    color:  white;
+}
+
+
 .titulo{
     background-color: black;
     text-align: center;
     color: white;
+    padding: 20px;
+    font-size: 25px;
 }
